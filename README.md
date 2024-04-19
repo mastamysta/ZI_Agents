@@ -10,4 +10,6 @@ I was pleased to get some decent results immediately:
 
 price (Y) agaist time delta (X)![bland_market_data](https://github.com/mastamysta/ZI_Agents/assets/47383446/5d9e1b17-d11a-49ff-805f-666a4ed4873b)
 
+It was also possible to introduce new agents part way through the experiment. In the below example, a new seller is introduced at time delta 500. The supply-side surpluss drives prices down rapidly over the next 500 deltas:
 
+price (Y) agaist time delta (X)![new_seller](https://github.com/mastamysta/ZI_Agents/assets/47383446/1ae155c8-1714-4e4d-89b4-4def03bd026a)
